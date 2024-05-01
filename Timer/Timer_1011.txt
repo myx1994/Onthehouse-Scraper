@@ -1,0 +1,3 @@
+The first csv processing time is : 9311.526983737946
+The second csv processing time is : 8685.48439192772
+The third csv processing time is : 8889.655145645142
